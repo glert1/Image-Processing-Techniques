@@ -99,3 +99,26 @@ Introduces various noise types into an image for testing the robustness of filte
 - **Gaussian Noise**: Adds values from a Gaussian distribution to simulate sensor noise.
 - **Speckle Noise**: Multiplies random noise to simulate granular disturbances.
 
+
+
+## 🤝 Contributing
+
+Contributions are welcome! If you'd like to contribute, please:
+- Fork the repository.
+- Create a feature branch.
+- Submit a pull request.
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙏 Acknowledgments
+
+- The creators of the public dataset used in this project.
+- Open-source frameworks like TensorFlow and Keras.
+
+
