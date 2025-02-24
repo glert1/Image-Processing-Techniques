@@ -116,9 +116,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🙏 Acknowledgments
 
-- The creators of the public dataset used in this project.
-- Open-source frameworks like TensorFlow and Keras.
 
 
